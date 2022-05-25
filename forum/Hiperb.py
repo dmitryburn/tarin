@@ -4,8 +4,6 @@ import matplotlib.pyplot as plt
 from matplotlib import rcParams
 import numpy as np
 
-BOUNDS_X = (-20.2, 20.2)
-BOUNDS_Y = (-20.2, 20.2)
 
 class Parabolic:
     def __init__(self, p):
